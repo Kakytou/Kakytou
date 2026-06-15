@@ -1,10 +1,10 @@
 # Olá, eu sou Kayky Santos 👋
 
-🎓 Estudante e entusiasta de tecnologia, atualmente focado em Análise de Dados, Business Intelligence e Desenvolvimento de Software.
+🎓 Estudante de Análise de Dados e entusiasta de tecnologia, focado em transformar dados em informações úteis para a tomada de decisão.
 
 ## 🚀 Sobre mim
 
-Atualmente estou desenvolvendo projetos para construir meu portfólio e me preparar para oportunidades de estágio na área de Dados.
+Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e me preparar para oportunidades de estágio na área de Dados.
 
 Tenho interesse em:
 
@@ -13,15 +13,15 @@ Tenho interesse em:
 - Visualização de Dados
 - Estatística
 - Banco de Dados
-- Desenvolvimento Java
+- Automação e Programação
 
 ## 📊 O que estou fazendo no momento
 
 - Desenvolvendo dashboards no Power BI
-- Criando projetos de análise de dados com Excel e SQL
-- Aprimorando conhecimentos em estatística aplicada a negócios
-- Construindo projetos para meu portfólio de estágio em Análise de Dados
-- Estudando boas práticas de visualização e storytelling com dados
+- Criando projetos de análise de dados com Python, SQL e Excel
+- Estudando estatística aplicada à análise de dados
+- Construindo projetos para meu portfólio de estágio
+- Aprimorando conhecimentos em visualização e storytelling com dados
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -29,25 +29,25 @@ Tenho interesse em:
 - Power BI
 - Excel
 - SQL
+- Python
 
 ### Banco de Dados
 - MySQL
 
 ### Desenvolvimento
-- Python
 - Java
 - Git
 - GitHub
 
-## 📈 Objetivo
+## 🎯 Objetivo
 
-Meu objetivo é ingressar na área de Dados como estagiário, aplicando conhecimentos em análise, visualização e interpretação de dados para apoiar a tomada de decisões.
+Busco uma oportunidade de estágio em Análise de Dados para aplicar e expandir meus conhecimentos em Business Intelligence, visualização de dados e análise estatística.
 
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/kayky-santos-7504a0365
-- E-mail: kaykysantos775@gmail.com
+- E-mail: seuemail@email.com
 
 ---
 
-⭐ Sempre aprendendo, criando projetos e compartilhando conhecimento.
+⭐ Sempre aprendendo, construindo projetos e evoluindo na área de Dados.
