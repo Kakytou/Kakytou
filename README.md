@@ -1,6 +1,6 @@
 # Olá, eu sou Kayky Santos 👋
 
-🎓 Estudante de Análise de Dados e entusiasta de tecnologia, focado em transformar dados em informações úteis para a tomada de decisão.
+🎓 Estudante de Ciência da Computação e entusiasta de tecnologia, focado em transformar dados em informações úteis para a tomada de decisão.
 
 ## 🚀 Sobre mim
 
