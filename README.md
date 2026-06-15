@@ -45,8 +45,8 @@ Busco uma oportunidade de estágio em Análise de Dados para aplicar e expandir 
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/kayky-santos-7504a0365
-- E-mail: seuemail@email.com
+- LinkedIn: www.linkedin.com/in/kayky-santos-de-lima-750592309
+- E-mail: kaykysantos775@gmail.com
 
 ---
 
