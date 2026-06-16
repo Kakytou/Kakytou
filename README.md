@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e me preparar para oportunidades de estágio na área de Dados.
+Atualmente estou desenvolvendo projetos para fortalecer meu portfólio e me preparando para oportunidades de estágio na área de Dados.
 
 Tenho interesse em:
 
@@ -41,7 +41,7 @@ Tenho interesse em:
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio em Análise de Dados para aplicar e expandir meus conhecimentos em Business Intelligence, visualização de dados e análise estatística.
+Busco uma oportunidade de estágio em Análise de Dados para aplicar e expandir meus conhecimentos em BI, visualização de dados e análise estatística.
 
 ## 📫 Contato
 
